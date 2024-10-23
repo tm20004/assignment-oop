@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 git init
+git add assignment-oop
 class product{
 private:
     string productid;
