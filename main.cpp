@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+git init
 class product{
 private:
     string productid;
